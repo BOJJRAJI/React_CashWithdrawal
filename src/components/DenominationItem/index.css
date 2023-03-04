@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.button {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Bree Serif';
+  color: #c4c4c4;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 8px;
+  background-color: #585076;
+  border-width: 2px;
+  border-color: #c7d2fe;
+  border-radius: 4px;
+  height: 50px;
+  width: 120px;
+}
+.list-item {
+  list-style-type: none;
+  width: 48%;
+  margin-bottom: 16px;
+}
